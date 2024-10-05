@@ -5,6 +5,7 @@ How to reach me: 781-860-2547 or joseph.jia23@gmail.com
 Pronouns: He/Him
 
 Projects:
+
 jsphjia/real-estate-predictor: (currently working on)
   This project focuses on creating a machine learning model to predict potential final sale prices of houses on the market or in the future uses statistics of nearby houses of similar size. 
   I take into consideration data about square footage, bedrooms, bathrooms, and sale history to make predictions that can be found on mainstream websites like Zillow and Redfin.
