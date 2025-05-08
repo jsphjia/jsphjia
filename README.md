@@ -1,5 +1,5 @@
 Hi, I’m @jsphjia.
-I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University.
+I’m currently studying Electrical and Computer Engineering at Carnegie Mellon University with an additional major in Robotics.
 
 How to reach me: 781-860-2547 or joseph.jia23@gmail.com
 Pronouns: He/Him
